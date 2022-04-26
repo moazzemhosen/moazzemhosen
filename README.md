@@ -45,24 +45,7 @@
     <a href="https://reactjs.org/"><img height="100" width="100" src="https://img.icons8.com/color/48/000000/react-native.png" /></a>
     <a href="https://redux.js.org/"><img height="100" width="100" src="https://img.icons8.com/color/48/000000/redux.png" /></a>
  
-    <a href="https://nodejs.org/en/"><img height="100" width="100" src="https://img.icons8.com/color/48/000000/nodejs.png" /></a>
-
-    <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"height="100" width="100" /></a>
-
-       
-    <a href="https://expressjs.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-        alt="express" height="100" width="100" />
-    </a>
-
-<a href="https://www.postman.com/">    <img height="100" width="100" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" /></a>
-    <a href=""><img height="100" width="100" src="https://img.icons8.com/color/48/000000/git.png" /></a>
-
-</p>
-
-<br />
-<p align="center"><img alt="Moazzem Hosen Sardar's Top Languages"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=moazzemhosen&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    
 
 </p>
 
