@@ -16,11 +16,16 @@
     <img align="right" height="350" width="400" alt="GIF"
         src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47on47t4ezfp7ucu7rrg3zstj8pg52mnvykhadml39&rid=200.webp&ct=g">
 </a> -->
-## About Me ☎
+## About Me 
+<br/>
+<br/>
 <br/>
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 *MERN Full Stack Web Development*
+- <br/>
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 *Web Development*
+- <br/>
 - ❓ Ask me about anything related to MERN stack and related technologies
+- <br/>
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : *Coding can “power up” your brain 😁*
 
 <br />
