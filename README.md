@@ -16,7 +16,7 @@
     <img align="right" height="350" width="400" alt="GIF"
         src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47on47t4ezfp7ucu7rrg3zstj8pg52mnvykhadml39&rid=200.webp&ct=g">
 </a> -->
-## About Me 
+## About Me 🙋‍♂️
 <br/>
 <br/>
 <br/>
@@ -75,12 +75,12 @@
 <br />
 <p align="center">&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=moazzemhosen&show_icons=true&locale=en&theme=highcontrast"
-        alt="Tanmoy-M172" /></p>
+        alt="moazzem" /></p>
 <br>
 
 <p align="center"><img align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=moazzemhosen&&theme=highcontrast"
-        alt="Tanmoy-M17" />
+        alt="moazzem" />
 </p>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience
 or skill level.
@@ -88,7 +88,7 @@ or skill level.
 
 <br />
 <br />
-<img alt="Moazzem Hosen Sardar's Activity Graph"
+<img alt="Moazzem Hosen Sardar's  Activity Graph"
     src="https://activity-graph.herokuapp.com/graph?username=moazzemhosen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 <br />
