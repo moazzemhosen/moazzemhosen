@@ -44,7 +44,7 @@
 
     <a href="https://reactjs.org/"><img height="100" width="100" src="https://img.icons8.com/color/48/000000/react-native.png" /></a>
     <a href="https://redux.js.org/"><img height="100" width="100" src="https://img.icons8.com/color/48/000000/redux.png" /></a>
-    <br>
+ 
     <a href="https://nodejs.org/en/"><img height="100" width="100" src="https://img.icons8.com/color/48/000000/nodejs.png" /></a>
 
     <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"height="100" width="100" /></a>
