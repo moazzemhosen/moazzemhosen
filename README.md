@@ -40,8 +40,28 @@
     <!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Tanmoy-M17&style=flat&color=brightgreen"> -->
     <img src="https://img.shields.io/github/stars/moazzemhosen?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
+  ### 💻 Software and tools
+<img src="http://img.shields.io/badge/-Ubuntu-white?style=flat&logo=ubuntu&logoColor=#0370BA"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="http://img.shields.io/badge/-Postman-F57141?style=flat&logo=postman&logoColor=white">
+<img src="http://img.shields.io/badge/-Codepen-black?style=flat&logo=codepen&logoColor=#0370BA">
+<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a> 
+<img src="http://img.shields.io/badge/-OBS Studio-39373A?style=flat&logo=obsstudio&logoColor=#0370BA">
+<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
+<a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
+<a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+ 
 
-🚀 Languages and Tools:
+<!-- <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white"> -->
+<!-- <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"> -->
+<!-- <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> -->
+<!-- <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"> -->
+<!-- <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"> -->
+
+
+<br />
+
+🚀 Languages:
 
 <p align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img height="100" width="100" margin="10"
