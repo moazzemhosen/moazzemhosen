@@ -125,7 +125,5 @@ or skill level.
     <a href=""><img
             src="https://camo.githubusercontent.com/15de05815ac1eacce5ad522291d8fc1e7bc86b2aeb4e90b063a023044efe2a91/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f696e7374616772616d2d6e65772e706e67"
             alt=""></a>
-    <a href=""><img
-            src="https://camo.githubusercontent.com/935991993635cd0e6398dd4368b13949a1bac7853b6361bd8d44bf95641f986a/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f747769747465722e706e67"
-            alt=""></a>
+    
 </p>
