@@ -125,7 +125,6 @@ or skill level.
     <a href="https://www.instagram.com/sardar_ji__76/"><img height="50" width="50"
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"
             alt=""></a>
-    
       <a href="https://wa.me/9002139195"><img height="50" width="50"
             src="https://thumbs.dreamstime.com/b/phone-call-icon-green-button-vector-illustration-isolated-white-background-194029802.jpg"
             alt=""></a>
