@@ -116,14 +116,14 @@ or skill level.
 
 ## Contact Me ☎️
 <p align="left">
-    <a href=""><img
-            src="https://camo.githubusercontent.com/9cf57c5f06336ff142f2ff361febd83f56a473f21d07298dc0e750c917ecdbde/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f706f7274666f6c696f2e706e67"
+    <a href="https://www.instagram.com/sardar_ji__76/"><img height="50" width="50"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"
             alt=""></a>
-    <a href="https://www.linkedin.com/in/moazzem-hosen-sardar-a55101187/"><img
-            src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67"
+    <a href="https://www.linkedin.com/in/moazzem-hosen-sardar-a55101187/">
+        <img
+       src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67"
             alt=""></a>
     <a href="https://wa.me/9002139195"><img height="50" width="50"
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png"
-            alt=""></a>
-    
+            alt=""></a> 
 </p>
