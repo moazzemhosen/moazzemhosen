@@ -116,8 +116,8 @@ or skill level.
 
 ## Contact Me ☎️
 <p align="left">
-    <a href=""><img
-            src="https://cdn-icons-png.flaticon.com/512/281/281769.png"
+    <a href=""><img height="100" width="100"
+            src="https://cdn-icons-png.flaticon.com/512/281/281769.png" 
             alt=""></a>
     <a href="https://www.linkedin.com/in/moazzem-hosen-sardar-a55101187/"><img
             src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67"
