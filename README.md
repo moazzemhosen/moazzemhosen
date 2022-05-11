@@ -116,7 +116,7 @@ or skill level.
 
 ## Contact Me ☎️
 <p align="left">
-    <a href=""><img height="50" width="50"
+    <a href="mailto:moazzemhosen9@gmail.com"><img height="50" width="50"
             src="https://cdn-icons-png.flaticon.com/512/281/281769.png" 
             alt=""></a>
     <a href="https://www.linkedin.com/in/moazzem-hosen-sardar-a55101187/"><img
