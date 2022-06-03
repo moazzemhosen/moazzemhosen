@@ -18,9 +18,9 @@
 </a> -->
 ## About Me 🙋‍♂️
 <br/>
-- 👨🏽‍💻 I’m currently working on something cool 😉
-- 💬 Any time Available to solve Technical Problem.
-- 💬 Ask me about anything, I am happy to help.
+- 👨🏽‍💻 I’m currently working on something cool 😉.<br/>
+- 💬 Any time Available to solve Technical Problem..<br/>
+- 💬 Ask me about anything, I am happy to help.<br/>
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 *MERN Full Stack Web Development*
 - <br/>
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 *Web Development*
@@ -28,7 +28,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies
 - <br/>
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : *Coding can “power up” your brain 😁*
-- 📫 How to reach me: moazzemhosen9@gmail.com .
+- 📫 How to reach me: <a>moazzemhosen9@gmail.com</a> .
 
 <br />
 <br />
