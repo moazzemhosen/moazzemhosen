@@ -27,8 +27,8 @@
 - <br/>
 - ❓ Ask me about anything related to MERN stack and related technologies
 - <br/>
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : *Coding can “power up” your brain 😁*
-- 📫 How to reach me: <a>moazzemhosen9@gmail.com</a> .
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : *Coding can “power up” your brain 😁*.<br/>
+- 📫 How to reach me: <a href="mailto:moazzemhosen9@gmail.com" target="_blank">moazzemhosen9@gmail.com</a> .
 
 <br />
 <br />
